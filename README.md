@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Learning how to use GitHub through coursera
+Learning how to use GitHub through coursera.
